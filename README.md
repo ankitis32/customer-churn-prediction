@@ -11,9 +11,13 @@ Customer churn is a key business problem for telecom companies. This project use
 
 ## 📂 Project Structure
 telco-churn-prediction/
+
 ├── telco_model.ipynb
+
 ├── Telco-Customer-Churn.csv
+
 ├── README.md
+
 └── .gitignore (optional)
 
 
